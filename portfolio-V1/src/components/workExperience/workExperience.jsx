@@ -1,5 +1,5 @@
 import React from "react"; 
-import "./WorkExperience.css";
+import "./workExperience.css";
 import { WORK_EXPERIENCE } from "../../data/data";
 import ExperienceCard from './experience'
 import { useRef } from "react";

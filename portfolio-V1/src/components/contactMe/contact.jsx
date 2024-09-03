@@ -1,7 +1,6 @@
 import React from "react";
 import "./contact.css";
 import  ContactInfoCard from "./contactInfoCard";
-import ContactForm from './form'; 
 
 const ContactMe = () => {
   return (

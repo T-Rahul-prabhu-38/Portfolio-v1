@@ -1,5 +1,5 @@
 import React from 'react';
-import './skillsSectionCard.css';
+import './SkillsSectionCard.css';
 
 
 const SkillsSectionCard = ({ title, count, isActive, onClick }) => {

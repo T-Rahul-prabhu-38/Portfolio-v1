@@ -1,5 +1,5 @@
 import React,{useState} from 'react';
-import './SkillsPageSection.css'
+import './skillsPageSection.css'
 import { Skillset } from '../../data/data';
 import SkillsSectionCard from './SkillsSectionCard';
 import SkillsInfoCard from './skillsSectionCardInfo';
