@@ -1,5 +1,5 @@
 import './App.css'
-import Navbar from './components/navbar/navbar'
+import Navbar from './components/navbar/Navbar.jsx'
 import Hero from './components/hero/Hero'
 import Skills from './components/skills/Skills'
 import WorkExperience from './components/workExperience/workExperience'
