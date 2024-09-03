@@ -1,6 +1,6 @@
 import React,{useState} from "react";
 import { HiBars3 ,HiOutlineXCircle } from "react-icons/hi2";
-import "./Navbar.css";
+import "./navbar.css";
 import MobileNav from "./MobileNav";
 import { FaHome } from "react-icons/fa";
 
